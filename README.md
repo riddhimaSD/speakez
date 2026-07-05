@@ -18,9 +18,7 @@ npm run dev
 
 **👉 https://speakez-hackathon.vercel.app**
 
-(Server runs on port 3001)
-
-The server is running! Open this URL in your browser to start using SPEAKEZ.
+Open this URL in your browser to start using SPEAKEZ.
 
 ## ✨ Features
 
