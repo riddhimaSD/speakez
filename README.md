@@ -16,7 +16,7 @@ npm run dev
 
 ### 3. Open in Browser
 
-**👉 http://localhost:3001**
+**👉 https://speakez-hackathon.vercel.app**
 
 (Server runs on port 3001)
 
@@ -90,7 +90,7 @@ The app works without these - it will use fallback implementations.
 
 Everything is implemented and working. The development server is running at:
 
-### **http://localhost:3001**
+### **https://speakez-hackathon.vercel.app**
 
 Start exploring:
 1. Landing page → Sign up
